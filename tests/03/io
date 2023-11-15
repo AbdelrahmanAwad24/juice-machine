@@ -1,0 +1,48 @@
+> Welcome to the juice filling machine calculator!
+> 
+> Which juice do you want to fill?
+> 1. Orange juice
+> 2. Apple juice
+?  > 
+< 2
+> 
+> How many litres do you want to fill? (1 to 1000)
+?  > 
+< 1200
+> Invalid input! Please choose a valid amount.
+> 
+> How many litres do you want to fill? (1 to 1000)
+?  > 
+< 0
+> Invalid input! Please choose a valid amount.
+> 
+> How many litres do you want to fill? (1 to 1000)
+?  > 
+< 400
+> 
+> Which size of canister would you like to use for your apple juice?
+> - 5 litres
+> - 15 litres
+> - 25 litres
+?  > 
+< 25
+> 
+> It is possible to fill 16 canisters with the size of 25 litres.
+> This results in 0 left-over litres.
+> 
+> The filling costs are:
+> ----------------------------------------------
+> - 400 litres of apple juice: 60.00 €
+> - 16 canisters: 4.00 €
+> - Flat rate for using the machine: 5.00 €
+> ----------------------------------------------
+> This results in a total cost of 69.00 €.
+> 
+> Are you sure you want to fill the canisters?
+> 1. Yes
+> 2. No
+?  > 
+< 1
+> 
+> The canisters will be filled as soon as we receive your payment.
+> Thank you for using the juice filling machine calculator!
